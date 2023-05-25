@@ -5,7 +5,7 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "emsproject.tests", "emsproject.tests\emsproject.tests.csproj", "{1B5B3C83-3C3B-420A-95A1-3F50C7C46EFB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "emsproject.web", "emsproject.web\emsproject.web.csproj", "{D7B6801C-3C33-466F-AC4B-E15A4F566998}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "emsproject.emsproject", "emsproject.emsproject\emsproject.emsproject.csproj", "{96757CEA-2266-426D-BA1C-557EDFA4ACF8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,9 +20,9 @@ Global
 		{1B5B3C83-3C3B-420A-95A1-3F50C7C46EFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B5B3C83-3C3B-420A-95A1-3F50C7C46EFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B5B3C83-3C3B-420A-95A1-3F50C7C46EFB}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D7B6801C-3C33-466F-AC4B-E15A4F566998}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D7B6801C-3C33-466F-AC4B-E15A4F566998}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D7B6801C-3C33-466F-AC4B-E15A4F566998}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D7B6801C-3C33-466F-AC4B-E15A4F566998}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96757CEA-2266-426D-BA1C-557EDFA4ACF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96757CEA-2266-426D-BA1C-557EDFA4ACF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96757CEA-2266-426D-BA1C-557EDFA4ACF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96757CEA-2266-426D-BA1C-557EDFA4ACF8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
